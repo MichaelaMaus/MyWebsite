@@ -138,7 +138,13 @@
     font-style: normal;
 }
 
+@font-face {
+	font-family:'Cormorant_Garamond';
+	src: url('https://fonts.google.com/specimen/Cormorant+Garamond')
+	font-weight: normal;
+    font-style: normal;
 
+}
 /*
  * FIXED for Font-Face Chrome Rendering
 ================================================================================ */
